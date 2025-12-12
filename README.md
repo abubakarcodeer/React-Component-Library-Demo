@@ -29,6 +29,6 @@ npm install
 npm start
 
 # Usage Guidelines
-import Button from "./components/Button/Button";
-import Card from "./components/Card/Card";
-import Model from "./components/Model/Model";
+- import Button from "./components/Button/Button";
+- import Card from "./components/Card/Card";
+- import Model from "./components/Model/Model";
